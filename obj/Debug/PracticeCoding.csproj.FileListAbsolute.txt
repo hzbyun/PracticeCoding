@@ -1,0 +1,6 @@
+C:\Users\James\Documents\GitHub\PracticeCoding\PracticeCoding\PracticeCoding\bin\Debug\PracticeCoding.exe.config
+C:\Users\James\Documents\GitHub\PracticeCoding\PracticeCoding\PracticeCoding\bin\Debug\PracticeCoding.exe
+C:\Users\James\Documents\GitHub\PracticeCoding\PracticeCoding\PracticeCoding\bin\Debug\PracticeCoding.pdb
+C:\Users\James\Documents\GitHub\PracticeCoding\PracticeCoding\PracticeCoding\obj\Debug\PracticeCoding.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\PracticeCoding\PracticeCoding\PracticeCoding\obj\Debug\PracticeCoding.exe
+C:\Users\James\Documents\GitHub\PracticeCoding\PracticeCoding\PracticeCoding\obj\Debug\PracticeCoding.pdb
