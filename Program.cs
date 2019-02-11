@@ -1,4 +1,7 @@
-﻿namespace PracticeCoding
+﻿using System.Threading.Tasks;
+using PracticeCoding.Service;
+
+namespace PracticeCoding
 {
     class Program
     {
@@ -6,6 +9,11 @@
         {
 
             //Practice 1 : Tax Calculation
+
+            //Practice 2 : Json Request
+            var t = WikipediaWordService.GetTopicCount("");
+
+
         }
     }
 }
